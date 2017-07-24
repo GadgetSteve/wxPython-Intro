@@ -1,0 +1,8 @@
+Lib/ 
+Scripts/ 
+Share/ 
+pip-selfcheck.json 
+*.tar.gz 
+pyvenv.cfg 
+wxPython-demo-4.0.0a3/ 
+Publish 
