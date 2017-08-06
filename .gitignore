@@ -6,3 +6,4 @@ pip-selfcheck.json
 pyvenv.cfg 
 wxPython-demo-4.0.0a3/ 
 Publish 
+wxPython-demo-*/ 
